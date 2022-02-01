@@ -21,7 +21,7 @@ Hi there, I'm **Ahmed Reda**, a **Front-End Developer and high school student** 
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a freelacner.
+- 👨🏽‍💻 I’m working as a freelacner.
 - 🌱  I’m currently learning MERN Stack
 - 🤔 My interests are web-apps , automation , and developing some useful and cool stuff xD
 - 📚 I'm in third grade secondary.
