@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hi there, I'm **Ahmed Reda**, a **Front-End Developer and high school student** 🚀 from Mansoura , Egypt.
+Hi there, I'm **Ahmed Reda**, a **Front-End Developer and Computer Science student** 🚀 from Mansoura , Egypt.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -23,8 +23,8 @@ Hi there, I'm **Ahmed Reda**, a **Front-End Developer and high school student** 
 
 - 👨🏽‍💻 I’m working as a freelacner.
 - 🌱  I’m currently learning MERN Stack
-- 🤔 My interests are web-apps , automation , and developing some useful and cool stuff xD
-- 📚 I'm in third grade secondary.
+- 🤔 My interests are web-apps , penetration testing,and developing some useful and cool stuff xD
+<!-- - 📚 I'm in third grade secondary. -->
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [ar.gad@gmail.com](mailto:ar.gad@gmail.com).
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
