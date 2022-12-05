@@ -26,7 +26,7 @@ Hi there, I'm **Ahmed Reda**, a **Front-End Developer and Computer Science stude
 - 🤔 My interests are web-apps , penetration testing,and developing some useful and cool stuff xD
 <!-- - 📚 I'm in third grade secondary. -->
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [ar.gad@gmail.com](mailto:ar.gad@gmail.com).
+- 📫 Email me at [areda.gad@gmail.com](mailto:areda.gad@gmail.com).
 <!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
  -->
 
