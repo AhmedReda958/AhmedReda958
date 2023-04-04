@@ -1,23 +1,11 @@
-<h3 title="hehehe"> Hey 👋, I'm Gad!</h3>
 
-<a href="https://www.linkedin.com/in/ahmed-reda-2297887a7/">
-  <img align="left" alt="Gad's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/Ahmed_reda.0/">
-  <img align="left" alt="Gad's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/">
-  <img align="left" alt="Gad's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<br>
-<br>
 <img src="https://komarev.com/ghpvc/?username=AhmedReda958&color=blue">
 <br />
 <br />
 
 Hi there, I'm **Ahmed Reda**, a **Front-End Developer and Computer Science student** 🚀 from Mansoura , Egypt.
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<!--   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 
 # 💫 About Me:
 Hi there,<br>I'm Ahmed Reda, a Front-End Developer and Computer Science student 🚀from Mansoura, Egypt.<br>👨🏽‍💻 I’m working as a freelancer.<br>🌱 I’m currently learning MERN Stack<br>🤔 My interests are web apps, and developing some useful and cool stuff xD<br>💬 Ask me about anything, I love to answer!<br>📫 Email me at [areda.gad@gmail.com](mailto:areda.gad@gmail.com).<br><br>
