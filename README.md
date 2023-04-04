@@ -25,8 +25,15 @@ Hi there,<br>I'm Ahmed Reda, a Front-End Developer and Computer Science student 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+###Fun fact: I once answered the world’s oldest question with a single line of JavaScript
+
+// Which came first: the chicken or the egg?
+console.log(["🥚", "🐣", "🐥", "🐔"].sort())
+
+>>> ["🐔", "🐣", "🐥", "🥚"];
+
+<!-- ### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=AhmedReda958&icon=8&color=1)](https://visitcount.itsvg.in) -->
