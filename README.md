@@ -29,6 +29,7 @@ Hi there,<br>I'm Ahmed Reda, a Front-End Developer and Computer Science student 
 ### Fun fact: I once answered the world’s oldest question with a single line of JavaScript
 
 // Which came first: the chicken or the egg?
+<br/>
 console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 >>>["🐔", "🐣", "🐥", "🥚"];
