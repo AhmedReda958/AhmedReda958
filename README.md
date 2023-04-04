@@ -25,9 +25,9 @@ Hi there,<br>I'm Ahmed Reda, a Front-End Developer and Computer Science student 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###Fun fact: I once answered the world’s oldest question with a single line of JavaScript
+### Fun fact: I once answered the world’s oldest question with a single line of JavaScript
 
-// Which came first: the chicken or the egg?
+//Which came first: the chicken or the egg?
 console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 >>> ["🐔", "🐣", "🐥", "🥚"];
