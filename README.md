@@ -31,4 +31,4 @@ Hi there,<br>I'm Ahmed Reda, a Front-End Developer and Computer Science student 
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AhmedReda958&icon=8&color=1)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=AhmedReda958&icon=8&color=1)](https://visitcount.itsvg.in) -->
