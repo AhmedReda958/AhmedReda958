@@ -1,6 +1,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=AhmedReda958&color=blue">
 <br />
+
 Hi there, I'm **Ahmed Reda**, a **Front-End Developer and Computer Science student** 🚀 from Mansoura , Egypt.
 
 <!--   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
@@ -27,10 +28,10 @@ Hi there,<br>I'm Ahmed Reda, a Front-End Developer and Computer Science student 
 
 ### Fun fact: I once answered the world’s oldest question with a single line of JavaScript
 
-//Which came first: the chicken or the egg?
+// Which came first: the chicken or the egg?
 console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
->>> ["🐔", "🐣", "🐥", "🥚"];
+>>>["🐔", "🐣", "🐥", "🥚"];
 
 <!-- ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/> -->
