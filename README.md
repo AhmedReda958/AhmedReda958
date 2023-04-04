@@ -1,8 +1,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=AhmedReda958&color=blue">
 <br />
-<br />
-
 Hi there, I'm **Ahmed Reda**, a **Front-End Developer and Computer Science student** 🚀 from Mansoura , Egypt.
 
 <!--   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
