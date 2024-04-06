@@ -9,6 +9,8 @@ Hi there,<br>I'm Ahmed Reda, a Front-End Developer 🚀from Mansoura, Egypt.<br/
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-reda-gad) 
 
+## 🛠️ Skills:
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,,,react,nextjs,redux,nodejs,express,mongo,sass,styledcomponents,tailwind,bootstrap,materialui,styledcomponents,threejs,figma,vite,vscode,androidstudio,&perline=6)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AhmedReda958&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AhmedReda958&theme=dark&hide_border=false)<br/>
